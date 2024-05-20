@@ -1,2 +1,2 @@
 # Analise-de-Dados---Soulcode
-Repositorio para anexar atividades do curso de Analise de Dados e Dashboard
+Repositorio para anexar atividades de ETL utilizando pandas, pyspark, questões do python do curso de Análise de Dados e Dashboard pela Soucode + NEOOH + Martech Academy. 
